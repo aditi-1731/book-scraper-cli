@@ -56,7 +56,8 @@ A CSV file will be generated in the format:
 ```
 Learning Python — Mark Lutz  
 Automate the Boring Stuff — Al Sweigart  
-Python Crash Course — Eric Matthes  
+Python Crash Course — Eric Matthes
+Total books found:10
 ```
 
 ## 📌 Notes
